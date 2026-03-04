@@ -14,11 +14,11 @@
 
 ### 🌍 [Voci](https://voci.netlify.app)
  > A full-stack Blogging and Knowledge Sharing platform inspired by Reddit and Quora 
- > `MongoDB` • `Express.js` • `Node.js` • `HTML` • `CSS` • `JavaScript`
+ > <br> `MongoDB` • `Express.js` • `Node.js` • `HTML` • `CSS` • `JavaScript`
 
 ### ☁️ [WeatherWise](https://weather-wise-web.netlify.app/)
  > A React app to fetch live weather updates via APIs 
- > `React` • `CSS` • `OpenWeather API`
+ > <br> `React` • `CSS` • `OpenWeather API`
 
 ### 🎲 [AgroConnect](https://github.com/BunnyBhoopesh/AGRO-CONNECT-Connecting-the-roots-of-commerce-From-soil-to-shelf)
  > A Platform connecting farmers and wholesalers for better business Implementation.
@@ -30,7 +30,7 @@
  
  ### 🎵 [Stock_Prediction_App](https://github.com/syed-shoab/NSE_Stock_Prediction)
  > A platform where Indian Stock Market (NSE) prices can be Predicted. 
- > `Python` • `Tkinter` • `KNN Algorithm` • `ML Libraries`
+ > <br> `Python` • `Tkinter` • `KNN Algorithm` • `ML Libraries`
 
 ## 📈 GitHub Stats
 
