@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Syed Shoab!
  🎓 A Final year Computer Science & Engineering student <br>
  💻 Full-stack developer | Tech Enthusiast | Open-source Contributor 
+ 🚀 Currently Learning: Next.js • System Design • Data Structures & Algorithms
 
 ## 🛠️ Tech Stack
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
