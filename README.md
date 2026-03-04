@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Syed Shoab!
  🎓 A Final year Computer Science & Engineering student <br>
- 💻 Full-stack developer | Tech Enthusiast | Open-source Contributor 
+ 💻 Full-stack developer | Tech Enthusiast | Open-source Contributor <br>
  🚀 Currently Learning: Next.js • System Design • Data Structures & Algorithms
 
 ## 🛠️ Tech Stack
