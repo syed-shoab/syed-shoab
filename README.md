@@ -34,8 +34,9 @@
 
 ## 📈 GitHub Stats
 
-![Shoab's GitHub stats](https://github-readme-stats.vercel.app/api?username=syed-shoab&show_icons=true&theme=tokyonight)
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syed-shoab&layout=compact&theme=to…
+![Shoab's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=syed-shoab&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syed-shoab&layout=compact&theme=tokyonight)
 
 ## 📫 Let's Connect
  - 📧 Email: syedshoab1100@gmail.com
